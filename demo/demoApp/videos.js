@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: '1Big Buck Bunny',
-            url: 'http://smartimmo.ru/uploaded/big_buck_bunny_480p_h264.mp4',
+            title: 'Arrow.S03E03.1080p.rus.LostFilm.TV',
+            url: 'http://fs.to/get/dl/6jw62sx93srvhliqhcu7rqyli.0.521872670.0.1414423602/Arrow.S03E03.1080p.rus.LostFilm.TV.mkv',
             type: 'vod'
         },
         {
