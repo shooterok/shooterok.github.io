@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Marvels.Agents.of.S.H.I.E.L.D.S02E06.1080p.rus.LostFilm.TV.mkv',
-            url: 'http://fs.to/get/dl/6jw62sx93srx6wrx87dcxxr6e.0.521872670.0.1414840181/Marvels.Agents.of.S.H.I.E.L.D.S02E06.1080p.rus.LostFilm.TV.mkv',
+            title: 'Teenage Mutant Ninja Turtles',
+            url: 'http://fs.to/get/dl/6jw62sx93srfw13ejj1l2j2c6.0.521872670.0.1414844737/Teenage+Mutant+Ninja+Turtles+%282014%29+1080p.x264+AC3.mkv',
             type: 'vod'
         },
         {
@@ -28,4 +28,4 @@
             type: 'hls'
         }
     ];
-})();
+})()
