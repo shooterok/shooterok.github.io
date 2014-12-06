@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Физрук сезон 2 серия 9',
-            url: 'http://fs.to/get/dl/6jw62sx93s2u06gz8xwbc6oba.0.521872670.0.1416603483/Fizruk.s02e09.2014.WEB-DL.720%D1%80.mkv',
+            title: 'Ярость / Furi (2014)',
+            url: 'http://fs.to/get/dl/6jw62sx93sf4yu2sel40s8xpy.0.521872670.0.1417888295/Yarost.2014.Dt.DVDScr.avi',
             type: 'vod'
         },
         {
