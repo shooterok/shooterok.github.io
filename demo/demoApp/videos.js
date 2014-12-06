@@ -3,7 +3,7 @@
 
     window.App.videos = [
         {
-            title: 'Ярость / Furi (2014)',
+            title: 'Ярость / Fury (2014)',
             url: 'http://fs.to/get/dl/6jw62sx93sf4yu2sel40s8xpy.0.521872670.0.1417888295/Yarost.2014.Dt.DVDScr.avi',
             type: 'vod'
         },
