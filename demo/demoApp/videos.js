@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Ярость / Fury (2014)',
-            url: 'http://fs.to/get/dl/6jw62sx93sf4yu2sel40s8xpy.0.521872670.0.1417888295/Yarost.2014.Dt.DVDScr.avi',
+            title: 'Edge.of.Tomorrow.2014',
+            url: 'http://fs.to/get/dl/5s6pxwbi6f1mcvxidf5xgeqpy.0.521872670.0.1418491674/Edge.of.Tomorrow.2014.1080p.Bluray.DD5.1.x264.Rus.Eng.mkv',
             type: 'vod'
         },
         {
