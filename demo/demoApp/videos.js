@@ -8,8 +8,8 @@
             type: 'vod'
         },
         {
-            title: '2Elephants Dream',
-            url: 'https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4',
+            title: 'Edge.of.Tomorrow.2014.D.BDRip',
+            url: 'http://fs.to/get/dl/5s6pxwbi6f1mcvxidf5xgf07a.0.521872670.0.1418492487/Edge.of.Tomorrow.2014.D.BDRip.x264.AVC.Rus.Eng.mkv',
             type: 'vod'
         },
         {
