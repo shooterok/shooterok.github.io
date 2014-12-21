@@ -4,7 +4,7 @@
     window.App.videos = [
         {
             title: 'Edge.of.Tomorrow.2014',
-            url: 'http://fs.to/get/dl/5s6pxwbi6f1mcvxidf5xgeqpy.0.521872670.0.1418491674/Edge.of.Tomorrow.2014.1080p.Bluray.DD5.1.x264.Rus.Eng.mkv',
+            url: 'http://fs.to/get/dl/6jw62sx93tssa5n3zo1tirufa.0.521872670.0.1419171928/Edge.of.Tomorrow.2014.1080p.Bluray.DD5.1.x264.Rus.Eng.mkv',
             type: 'vod'
         },
         {
