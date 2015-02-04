@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Edge.of.Tomorrow.2014',
-            url: 'http://fs.to/get/dl/6jw62sx93tssa5n3zo1tirufa.0.521872670.0.1419171928/Edge.of.Tomorrow.2014.1080p.Bluray.DD5.1.x264.Rus.Eng.mkv',
+            title: 'The.Flash.S01E11',
+            url: 'http://fs.to/get/dl/5ykw9cc9cllg3ndnvcttae0uu.0.521872670.0.1423055211/The.Flash.S01E11.1080p.rus.LostFilm.TV.mkv',
             type: 'vod'
         },
         {
