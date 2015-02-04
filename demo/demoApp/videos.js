@@ -8,8 +8,8 @@
             type: 'vod'
         },
         {
-            title: 'Edge.of.Tomorrow.2014.D.BDRip',
-            url: 'http://fs.to/get/dl/5s6pxwbi6f1mcvxidf5xgf07a.0.521872670.0.1418492487/Edge.of.Tomorrow.2014.D.BDRip.x264.AVC.Rus.Eng.mkv',
+            title: 'Arrow.S03E11',
+            url: 'http://fs.to/get/dl/5ykw9cc9cllvn11f0gugrwqli.0.521872670.0.1423055672/Arrow.S03E11.1080p.rus.LostFilm.TV.mkv',
             type: 'vod'
         },
         {
