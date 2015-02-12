@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Black.Sails.S02E01',
-            url: 'http://fs.to/get/dl/5ykw9cc9cllg3eimpijh7okna.0.521872670.0.1423076519/Black.Sails.S02E01.1080p.rus.LostFilm.TV.mkv',
+            title: 'The.Flash.S01E13',
+            url: 'http://fs.to/get/dl/5ykw9cc9ckwu8ag2dx1blltjq.0.521872670.974127405.1423775969/The.Flash.S01E13.1080p.rus.LostFilm.TV.mkv',
             type: 'vod'
         },
         {
