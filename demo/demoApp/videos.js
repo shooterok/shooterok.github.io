@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'The.Flash.S01E13',
-            url: 'http://fs.to/get/dl/5ykw9cc9ckwu8ag2dx1blltjq.0.521872670.974127405.1423775969/The.Flash.S01E13.1080p.rus.LostFilm.TV.mkv',
+            title: 'The.Imitation.Game.2014.D.DVDScr',
+            url: 'http://fs.to/get/dl/5ykw9cc9clxr0cz8vfp1nsm06.0.521872670.2185543202.1423928827/The.Imitation.Game.2014.D.DVDScr.Line.avi',
             type: 'vod'
         },
         {
