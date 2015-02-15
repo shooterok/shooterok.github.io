@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'The.Imitation.Game.2014.D.DVDScr',
-            url: 'http://fs.to/get/dl/5ykw9cc9clxr0cz8vfp1nsm06.0.521872670.2185543202.1423928827/The.Imitation.Game.2014.D.DVDScr.Line.avi',
+            title: 'джон вик',
+            url: 'http://175h.net/2014/john_wick/1080.mp4',
             type: 'vod'
         },
         {
