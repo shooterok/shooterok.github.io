@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Интерстеллар',
-            url: 'http://fs.to/get/dl/5ykw9cc9cjk2269vcnox6wkie.0.521872670.2185543202.1426875731/Interstellar.2014.1080p.BDRip.IMAX.mkv',
+            title: '12 Обезьян',
+            url: 'http://fs.to/get/dl/5ykw9cc9cjjo6ecjnar29tt2u.0.521872670.974127405.1427148291/12.Monkeys.S01E10.1080p.rus.LostFilm.mkv',
             type: 'vod'
         },
         {
