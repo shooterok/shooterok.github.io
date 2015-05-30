@@ -3,7 +3,7 @@
 
     window.App.videos = [
         {
-            title: 'Big Buck Bunny',
+            title: 'Великий уравнитель',
             url: 'http://fs.to/get/dl/6jw62sxqdzrlo1ct1x3tvoyjq.0.521872670.2185543202.1432977047/The+Equalizer.2014.BluRay.1080p.mkv',
             type: 'vod'
         },
