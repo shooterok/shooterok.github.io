@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Кибер',
-            url: 'http://fs.to/get/dl/6jw62sxqdyefncm0e0x0ervue.0.521872670.2185543202.1432997668/Blackhat.2015.D.1080p.BluRay.mkv',
+            title: 'American Sniper 2014',
+            url: 'http://fs.to/get/dl/6jw62sxqdyefkx35d2jntonuu.0.521872670.2185543202.1433006053/American.Sniper.2014.D.BDRip.1080p.Rus.Eng.mkv',
             type: 'vod'
         },
         {
