@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: '12 Обезьян',
-            url: 'http://fs.to/get/dl/5ykw9cc9cjjo6ecjnar29tt2u.0.521872670.974127405.1427148291/12.Monkeys.S01E10.1080p.rus.LostFilm.mkv',
+            title: 'Великий уравнитель',
+            url: 'http://fs.to/get/dl/6jw62sxqdzrlo1ct1x3tvoyjq.0.521872670.2185543202.1432977047/The+Equalizer.2014.BluRay.1080p.mkv',
             type: 'vod'
         },
         {
