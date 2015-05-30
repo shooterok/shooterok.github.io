@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Великий уравнитель',
-            url: 'http://fs.to/get/dl/6jw62sxqdzrlo1ct1x3tvoyjq.0.521872670.2185543202.1432977047/The+Equalizer.2014.BluRay.1080p.mkv',
+            title: 'Кибер',
+            url: 'http://fs.to/get/dl/6jw62sxqdyefncm0e0x0ervue.0.521872670.2185543202.1432997668/Blackhat.2015.D.1080p.BluRay.mkv',
             type: 'vod'
         },
         {
