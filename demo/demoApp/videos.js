@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'American Sniper 2014',
-            url: 'http://fs.to/get/dl/6jw62sxqdyefkx35d2jntonuu.0.521872670.2185543202.1433006053/American.Sniper.2014.D.BDRip.1080p.Rus.Eng.mkv',
+            title: 'Penguins of Madagascar 2014',
+            url: 'http://fs.to/get/dl/6jw62sxqe03wn6cgpwmil43d2.0.521872670.2284938935.1433063073/Penguins.of.Madagascar.2014.1080p.BluRay.DTS.x264.Dub.mkv',
             type: 'vod'
         },
         {
