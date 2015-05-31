@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Penguins of Madagascar 2014',
-            url: 'http://fs.to/get/dl/6jw62sxqe03wn6cgpwmil43d2.0.521872670.2284938935.1433063073/Penguins.of.Madagascar.2014.1080p.BluRay.DTS.x264.Dub.mkv',
+            title: 'Приключения Паддингтона',
+            url: 'http://fs175.www.ex.ua/load/5d4cd54209b5856205c90e19d9493fd1/163586665/Priklucheniya_Paddingtona.2014.avi',
             type: 'vod'
         },
         {
