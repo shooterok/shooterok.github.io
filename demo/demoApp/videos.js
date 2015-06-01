@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Приключения Паддингтона',
-            url: 'http://fs175.www.ex.ua/load/5d4cd54209b5856205c90e19d9493fd1/163586665/Priklucheniya_Paddingtona.2014.avi',
+            title: 'Silicon Valley S02E08',
+            url: 'http://fs.to/get/dl/6jw62sy7o95w31o0hoe2yr75y.0.521872670.974127405.1433155559/Silicon.Valley.S02E08.1080i.HDTV.DD5.1.H.264.Amedia.ts',
             type: 'vod'
         },
         {
