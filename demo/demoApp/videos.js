@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Silicon Valley S02E08',
-            url: 'http://fs.to/get/dl/6jw62sy7o95w31o0hoe2yr75y.0.521872670.974127405.1433155559/Silicon.Valley.S02E08.1080i.HDTV.DD5.1.H.264.Amedia.ts',
+            title: 'The.Making.of.the.Mob.New.York.S01E01',
+            url: 'http://fs.to/get/dl/6jw62sy7o8hbx03a3gvqxt87a.0.521872670.974127405.1435400589/The.Making.of.the.Mob.New.York.S01E01.1080p.rus.LostFilm.mkv',
             type: 'vod'
         },
         {
