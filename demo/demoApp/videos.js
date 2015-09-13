@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Good Kill',
-            url: 'http://fs.to/get/dl/6jw62sy7o8hbx05qs0dnjuf52.0.1139013157.2185543202.1435424510/Good.Kill.2014.L2.1080p.BluRay.x264.Rus.Eng.ColdFilm.mkv',
+            title: 'Avengers Age of Ultron 2015',
+            url: 'http://fs.to/get/dl/6jw62sy7o4e44ktq9ircck2vq.0.521872670.2185543202.1442135365/Avengers-Age.of.Ultron.2015.D.BluRay.1080p.Rus.mkv',
             type: 'vod'
         },
         {
