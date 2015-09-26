@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Avengers Age of Ultron 2015',
-            url: 'http://fs.to/get/dl/6jw62sy7o4e44ktq9ircck2vq.0.521872670.2185543202.1442135365/Avengers-Age.of.Ultron.2015.D.BluRay.1080p.Rus.mkv',
+            title: 'Wild Card 2015',
+            url: 'http://fs.to/get/dl/6jw62sxqdzfchukgua3z7x4gm.0.521872670.2185543202.1443288948/Wild.Card.2015.P.BDRip.1080p.Paradox.mkv',
             type: 'vod'
         },
         {
