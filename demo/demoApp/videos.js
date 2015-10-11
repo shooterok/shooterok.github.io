@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Wild Card 2015',
-            url: 'http://fs.to/get/dl/6jw62sxqdzfchukgua3z7x4gm.0.521872670.2185543202.1443288948/Wild.Card.2015.P.BDRip.1080p.Paradox.mkv',
+            title: 'Gotham S02E03',
+            url: 'http://fs.to/get/dl/6jw62suuox5oe7lta3h1sbmnq.0.521872670.974127405.1444553910/Gotham.S02E03.1080p.rus.LostFilm.mkv',
             type: 'vod'
         },
         {
