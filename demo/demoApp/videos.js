@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Marvels.Agents.of.S.H.I.E.L.D.S03E04',
-            url: 'http://fs.to/get/dl/6jw62suuox65mnrf1jgh2t2hi.0.521872670.974127405.1445683802/Marvels.Agents.of.S.H.I.E.L.D.S03E04.1080p.rus.LostFilm.mkv',
+            title: 'Gotham.S02E05',
+            url: 'http://fs.to/get/dl/6jw62suuox5obs0gvmrn1gtpy.0.521872670.974127405.1445773408/Gotham.S02E05.1080p.rus.LostFilm.mkv',
             type: 'vod'
         },
         {
