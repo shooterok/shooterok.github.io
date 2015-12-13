@@ -9,8 +9,8 @@
         },
         
         {
-            title: 'Дивергент',
-            url: 'http://www.ex.ua/get/122424825',
+            title: 'Дивергент, глава 2: Инсургент',
+            url: 'http://www.ex.ua/get/182867112',
             type: 'vod'
         },
         {
