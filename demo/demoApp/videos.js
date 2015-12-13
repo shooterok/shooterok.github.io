@@ -9,8 +9,8 @@
         },
         
         {
-            title: 'Дивергент, глава 2: Инсургент',
-            url: 'http://www.ex.ua/get/182867112',
+            title: 'Дьявол носит PRADA (2006)',
+            url: 'http://fs.to/get/dl/6jw62sx93tsos10d1ikydmu6u.0.521872670.2185543202.1450013218/Djavol.nosit.prado.2006.x264.BDRip.mkv',
             type: 'vod'
         },
         {
