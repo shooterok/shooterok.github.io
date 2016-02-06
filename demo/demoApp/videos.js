@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Багровый пик',
-            url: 'http://fs.to/get/dl/6jw62suuow4t9r6l5jnsmdvnq.0.521872670.2185543202.1449943174/Crimson.Peak.2015.D.WEB-DL.1080p.%5B%D0%9F%D0%B8%D1%84%D0%B0%D0%B3%D0%BE%D1%80%5D.mkv',
+            title: 'Black Sails S03E02',
+            url: 'fs.to/get/dl/6jw62suuow4riz9oyr1sovfd2.0.521872670.974127405.1454755073/Black.Sails.S03E02.HDTV.1080p.rus.LostFilm.mkv',
             type: 'vod'
         },
         
