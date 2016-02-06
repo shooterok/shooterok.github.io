@@ -4,7 +4,7 @@
     window.App.videos = [
         {
             title: 'Black Sails S03E02',
-            url: 'fs.to/get/dl/6jw62suuow4riz9oyr1sovfd2.0.521872670.974127405.1454755073/Black.Sails.S03E02.HDTV.1080p.rus.LostFilm.mkv',
+            url: 'http://fs.to/get/dl/6jw62suuow4riz9oyr1sovfd2.0.521872670.974127405.1454755073/Black.Sails.S03E02.HDTV.1080p.rus.LostFilm.mkv',
             type: 'vod'
         },
         
