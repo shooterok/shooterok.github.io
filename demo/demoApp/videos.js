@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Дочь бога',
-            url: 'http://fs.to/get/dl/6jw62suuow4t826cl1thskemu.0.521872670.2185543202.1454841778/Exposed.2016.P.WEB-DL.1080p.%5BParadox+%26+Omskbird+records%5D.mkv',
+            title: 'Виктор Франкинштейн',
+            url: 'http://www.ex.ua/get/227674683',
             type: 'vod'
         },
         
