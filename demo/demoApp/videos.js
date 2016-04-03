@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Виктор Франкинштейн',
-            url: 'http://www.ex.ua/get/227674683',
+            title: 'Три девятки / Triple 9 (2016)',
+            url: 'http://fs.to/get/dl/6jw62suuowh4868hmulwx0tqe.0.521872670.2185543202.1459669690/Triple.9.2016.D.WEB.720p.Line.mkv',
             type: 'vod'
         },
         
