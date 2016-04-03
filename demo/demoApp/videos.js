@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Миллион способов потерять голову / A million ways to die in the west',
-            url: 'fs.to/get/dl/6jw62sx93tscq6stz3zu0dc92.0.521872670.2185543202.1459687521/A.Million.Ways.To.Die.In.The.West.2014.BluRay.1080p.Rus.Eng.Subs-CHD.mkv',
+            title: 'Миллион способов потерять голову',
+            url: 'http://fs.to/get/dl/6jw62sx93tscq6stz3zu0dc92.0.521872670.2185543202.1459687521/A.Million.Ways.To.Die.In.The.West.2014.BluRay.1080p.Rus.Eng.Subs-CHD.mkv',
             type: 'vod'
         },
         
