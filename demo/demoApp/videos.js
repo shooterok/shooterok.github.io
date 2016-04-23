@@ -3,14 +3,14 @@
 
     window.App.videos = [
         {
-            title: 'Миллион способов потерять голову',
-            url: 'http://fs.to/get/dl/6jw62sx93tscq6stz3zu0dc92.0.521872670.2185543202.1459687521/A.Million.Ways.To.Die.In.The.West.2014.BluRay.1080p.Rus.Eng.Subs-CHD.mkv',
+            title: 'Gotham.S02E17',
+            url: 'http://fs.to/get/dl/6jw62suuowh2gf2v7yi5e9lkm.0.521872670.974127405.1461398148/Gotham.S02E17.1080p.rus.LostFilm.mkv',
             type: 'vod'
         },
         
         {
-            title: 'Дьявол носит PRADA (2006)',
-            url: 'http://www.ex.ua/get/487165',
+            title: 'Gotham.S02E18',
+            url: 'http://fs.to/get/dl/6jw62suuowh2h5cu1j110xqba.0.521872670.974127405.1461398148/Gotham.S02E18.1080p.rus.LostFilm.mkv',
             type: 'vod'
         },
         {
@@ -20,3 +20,6 @@
         }
     ];
 })();
+
+
+
