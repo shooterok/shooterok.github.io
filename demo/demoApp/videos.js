@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Gotham.S02E17',
-            url: 'http://fs.to/get/dl/6jw62suuowh2gf2v7yi5e9lkm.0.521872670.974127405.1461398148/Gotham.S02E17.1080p.rus.LostFilm.mkv',
+            title: 'Людина-мураха / Ant-Man (2015)',
+            url: 'http://www.ex.ua/get/231691704509/240473369',
             type: 'vod'
         },
         
