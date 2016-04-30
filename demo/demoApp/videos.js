@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Людина-мураха / Ant-Man (2015)',
-            url: 'http://www.ex.ua/get/231691704509/240473369',
+            title: 'Падение Лондона / London Has Fallen (2016)',
+            url: 'http://fs.to/get/dl/6jw62suuowh47fr41wogj0weu.0.521872670.2185543202.1462038064/London.Has.Fallen.2016.D.WEB.720p.KORSUB.Line.mkv',
             type: 'vod'
         },
         
