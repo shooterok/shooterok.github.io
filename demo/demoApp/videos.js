@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Падение Лондона / London Has Fallen (2016)',
-            url: 'http://fs.to/get/dl/6jw62suuowh47fr41wogj0weu.0.521872670.2185543202.1462038064/London.Has.Fallen.2016.D.WEB.720p.KORSUB.Line.mkv',
+            title: 'Game.of.Thrones.S06E09',
+            url: 'http://fs.to/get/dl/6jw62suuowhga8ts084evgrpy.0.521872670.974127405.1466420783/Game.of.Thrones.S06E09.HDTV.1080p.Rus.Amedia.mkv',
             type: 'vod'
         },
         
