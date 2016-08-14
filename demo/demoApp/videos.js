@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Game.of.Thrones.S06E09',
-            url: 'http://fs.to/get/dl/6jw62suuowhga8ts084evgrpy.0.521872670.974127405.1466420783/Game.of.Thrones.S06E09.HDTV.1080p.Rus.Amedia.mkv',
+            title: '13 часов: Тайные солдаты Бенгази (2016)',
+            url: 'http://www.ex.ua/get/262240597',
             type: 'vod'
         },
         
