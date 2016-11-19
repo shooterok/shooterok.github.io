@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: '13 часов: Тайные солдаты Бенгази (2016)',
-            url: 'http://www.ex.ua/get/262240597',
+            title: 'Mjehanik.Voskrjeshenije.2016.D.BDRip 720p.mkv',
+            url: 'http://www.ex.ua/get/285854084',
             type: 'vod'
         },
         
@@ -20,6 +20,5 @@
         }
     ];
 })();
-
 
 
