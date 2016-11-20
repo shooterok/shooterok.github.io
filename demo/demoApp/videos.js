@@ -3,8 +3,8 @@
 
     window.App.videos = [
         {
-            title: 'Mjehanik.Voskrjeshenije.2016.D.BDRip 720p.mkv',
-            url: 'http://www.ex.ua/get/285854084',
+            title: 'Narcos.S01E10.1080p.WEBRip.Rus.Eng.HDCLUB.mkv',
+            url: 'http://www.ex.ua/get/200021097',
             type: 'vod'
         },
         
